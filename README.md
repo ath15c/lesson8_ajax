@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Hernandez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(A program that uses API to view database of movies)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ath15c.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Connected API to program.)
+2. (Used JSON concepts.)
+3. (Used ajax methods.)
